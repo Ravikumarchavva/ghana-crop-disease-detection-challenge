@@ -1,4 +1,4 @@
-**.jpg
-**.txt
+**/images/**/*.jpg
+**/labels/**/*.txt
 
 **/wandb/
